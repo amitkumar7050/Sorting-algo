@@ -48,14 +48,19 @@ Follow these steps to run the project locally:
 
    git checkout -b feature-branch-name
 
+### Usage
+  Generate a New Array: Click the "Generate New Array" button to create a random array.
+  Select a Sorting Algorithm: Choose from Bubble Sort, Merge Sort, or Quick Sort.
+  Adjust Settings: Use sliders to modify the array size and sorting speed.
+  Start Sorting: Click the "Start Sorting" button to see the algorithm in action.
 
+### Technologies Used
+  React: For building the UI and managing components.
+  CSS: For styling and animations.
+### Future Enhancements
+  Add more sorting algorithms (e.g., Heap Sort, Insertion Sort).
+  Add real-time performance metrics for each sorting algorithm.
+  Enhance visual aesthetics with improved animations.
+  Support dark mode
 
-
-   
-
-### How to Use:
-- Replace `"Amit Kumar"` with your GitHub username.
-- Add a screenshot (`screenshot.png`) in the project directory for the demo image.
-- If you plan to license the project, add a `LICENSE` file and update the license section accordingly. 
-
-Let me know if you'd like help with any of these!
+Made with ❤️ by Amit
